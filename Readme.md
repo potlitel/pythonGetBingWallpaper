@@ -127,7 +127,7 @@ Si pip no está instalado, puedes instalarlo usando el script get-pip.py. Sigue 
 1. Clona el repositorio:
    
    ```bash
-   git clone https://github.com/potlitel/???.git
+   git clone https://github.com/potlitel/pythonGetBingWallpaper.git
    ```
 
 2. Navega al directorio del proyecto:
