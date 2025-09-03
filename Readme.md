@@ -160,3 +160,41 @@ Si pip no está instalado, puedes instalarlo usando el script get-pip.py. Sigue 
     ```bash
     pip install -r requirements.txt
     ```
+
+## ▶️ Uso
+
+Ejecuta el script principal. Este descargará la imagen de fondo del día, mostrando el progreso y notificando cualquier problema, como falta de conexión:
+
+```bash
+    python BingTodayWallpaper.py
+```
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas ayudar a mejorar este proyecto, puedes hacerlo siguiendo estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama con tu feature o corrección: `git checkout -b nombre-de-tu-rama`
+3. Realiza tus cambios y realiza commits claros y descriptivos.
+4. Envía un pull request describiendo detalladamente tus modificaciones.
+
+Por favor, asegúrate de que tu código sigue las buenas prácticas, y si haces mejoras significativas, considera incluir pruebas o documentación adicional.
+
+---
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+## 🙏 Agradecimiento y contacto
+
+¡Gracias por visitar y usar este proyecto! ✨  
+Si tienes dudas, sugerencias o quieres contribuir, no dudes en abrir un issue 📥 o contactarme directamente:  
+
+- GitHub: [potlitel](https://github.com/potlitel) 👨‍💻  
+- Email: potlitel@gmail.com ✉️  
+
+¡Espero tus aportes y comentarios! 💬😊
+
